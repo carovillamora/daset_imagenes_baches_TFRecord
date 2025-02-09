@@ -1,5 +1,11 @@
 item {
-    name: "pothole",
+    name: 'Tipo_1',
     id: 1,
-    display_name: "pothole"
+    display_name: "pothole",
+}
+
+item {
+    name: 'Tipo_2'
+    id: 2
+    display_name: "pothole",
 }
